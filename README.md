@@ -1,18 +1,21 @@
-# Mein Projekt-Titel
+# SNKR Resell Burn
 
-Kurze Beschreibung des Projekts.
+Willkommen bei **SNKR Resell Burn** – deinem ultimativen Ziel für den Kauf von Sammelsneakern! Dieses Projekt wurde als Solo-Herausforderung im Rahmen des DCI UIB Finalprojekts innerhalb von 6 Tagen entwickelt. Es besteht ausschließlich aus HTML und CSS.
 
+## Projektbeschreibung
 
+**SNKR Resell Burn** ist eine Website, auf der Sneaker-Enthusiasten exklusive und seltene Sammlerstücke finden können. Die Seite bietet eine ansprechende und benutzerfreundliche Oberfläche, um die Sneaker-Angebote durchstöbern und kaufen zu können.
 
-[Klicken Sie hier für die Live-Demo](https://ralfsmith69.github.io/SNKR-Resell-Burn_Site/)
+## Features
 
-## Wie man es benutzt
-
-Beschreiben Sie hier, wie man Ihr Projekt verwendet.
+- **Klar strukturierte Produktübersicht:** Einfaches Durchsuchen der verfügbaren Sneaker.
+- **Detailseiten für jedes Paar:** Einzelheiten zu jedem Sneaker, einschließlich Bilder und Beschreibung.
+- **Responsive Design:** Optimale Darstellung auf verschiedenen Endgeräten.
 
 ## Technologien
 
 - HTML
+- CSS
 - CSS
 
 
