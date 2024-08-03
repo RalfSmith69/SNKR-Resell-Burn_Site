@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="./styles/form-styles.css" />
+    <link rel="icon" href="/public/logo.png" />
+    <title>UIB-Final Projekt-3</title>
+  </head>
+  <body class="form-body">
+    <a href="main.html" class="back-button"> << Back</a>
+    <div class="form-container" id="formContainer">
+      <h3 class="form-title">Bitte ausfüllen und absenden!!!</h3>
+      <h4 class="form-title">
+        Du bekommst eine Bestell- und Versandbestätigung per Mail.
+      </h4>
+      <form class="form">
+        <label for="name">Name:</label>
+        <input type="text" id="name" name="name" required />
+
+        <label for="vorname">Vorname:</label>
+        <input type="text" id="vorname" name="vorname" required />
+
+        <label for="strasse">Strasse:</label>
+        <input type="text" id="strasse" name="strasse" required />
+
+        <label for="plz">PLZ:</label>
+        <input type="text" id="plz" name="plz" required />
+
+        <label for="ort">Ort:</label>
+        <input type="text" id="ort" name="ort" required />
+
+        <label for="email">E-Mail:</label>
+        <input type="email" id="email" name="email" required />
+
+        <label
+          >Wähle einen Versanddienstleister: <br />
+          Lieferzeit: ca. 1 -3 Tage / UPS Express 1 Tag!</label
+        >
+        <div class="shipping-options">
+          <label>
+            <input type="radio" name="shipping" value="DHL" required />
+            DHL 5,99.- €
+          </label>
+          <label>
+            <input type="radio" name="shipping" value="DPD" required />
+            DPD 4,99.- €
+          </label>
+          <label>
+            <input type="radio" name="shipping" value="UPS" required />
+            UPS Express 10,99.- €
+          </label>
+        </div>
+
+        <input type="submit" value="Absenden" />
+      </form>
+    </div>
+  </body>
+</html>
