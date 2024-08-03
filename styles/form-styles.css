@@ -6,8 +6,7 @@
   align-items: center;
   justify-content: center;
   height: 100vh;
-  background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.1)),
-    url("../public/yeezy-background.jpg");
+  background:linear-gradient(rgba(7, 7, 7, 0.4), rgba(247, 71, 2, 0.1)), url("../public/yeezy-background.jpg") no-repeat center center fixed;
   background-size: cover;
   background-position: center;
   z-index: 1;
