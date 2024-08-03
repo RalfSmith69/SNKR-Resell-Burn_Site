@@ -7,7 +7,7 @@
   justify-content: center;
   height: 100vh;
   background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.1)),
-    url("/public/yezzy-background.jpg");
+    url("../public/yezzy-background.jpg");
   background-size: cover;
   background-position: center;
   z-index: 1;
