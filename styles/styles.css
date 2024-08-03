@@ -151,37 +151,37 @@ p {
 }
 
 .card1 {
-  background-image: url(/public/shoe-1.jpg);
+  background-image: url(../public/shoe-1.jpg);
  
 }
 
 .card2 {
-  background-image: url(/public/shoe-2.jpg);
+  background-image: url(../public/shoe-2.jpg);
 }
 
 .card3 {
-  background-image: url(/public/shoe-3.jpg);
+  background-image: url(../public/shoe-3.jpg);
 }
 
 .card4 {
-  background-image: url(/public/shoe-6.jpg);
+  background-image: url(../public/shoe-6.jpg);
 }
 
 .card5 {
-  background-image: url(/public/shoe-5.jpg);
+  background-image: url(../public/shoe-5.jpg);
 }
 
 .card6 {
-  background-image: url(/public/shoe-7.jpg);
+  background-image: url(../public/shoe-7.jpg);
 }
 .card7 {
-  background-image: url(/public/shoe-8.jpg);
+  background-image: url(../public/shoe-8.jpg);
 }
 .card8 {
-  background-image: url(/public/shoe-9.jpg);
+  background-image: url(../public/shoe-9.jpg);
 }
 .card9 {
-  background-image: url(/public/shoe-10.jpg);
+  background-image: url(../public/shoe-10.jpg);
 }
 
 .card:hover {
