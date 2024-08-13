@@ -20,6 +20,6 @@ Willkommen bei **SNKR Resell Burn** – deinem ultimativen Ziel für den Kauf vo
 
 ## Kontakt
 
-Ralf Schmitz- [Ihre E-Mail](mailto: ralfschmitz@vodafone.de)
+Ralf Schmitz- (mailto: RalfSchmitz@vodafone.de)
 
-Projekt-Link: [https://github.com/IhrBenutzername/IhrRepositoryName](https://ralfsmith69.github.io/SNKR-Resell-Burn_Site/))
+Projekt-Link: (https://ralfsmith69.github.io/SNKR-Resell-Burn_Site/)
