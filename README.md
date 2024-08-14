@@ -1,4 +1,4 @@
-# Mein erstes Solo-Abschlussprojekt als Student am DCI im Modul UIB: 
+# Mein Solo-Abschlussprojekt als Student am DCI im Modul UIB: 
 
 ## SNKR Resell Burn
 
