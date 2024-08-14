@@ -6,7 +6,6 @@ Willkommen bei **SNKR Resell Burn** – deinem ultimativen Ziel für den Kauf vo
 
 **SNKR Resell Burn** ist eine Website, auf der Sneaker-Enthusiasten exklusive und seltene Sammlerstücke finden können. Die Seite bietet eine ansprechende und benutzerfreundliche Oberfläche, um die Sneaker-Angebote durchstöbern und kaufen zu können.
 
-![assets/Screenshot from 2024-08-14 09-22-05.png] (https://github.com/RalfSmith69/SNKR-Resell-Burn_Site/blob/master/Screenshot%20from%202024-08-14%2009-21-12.png)
 
 ## Features
 
