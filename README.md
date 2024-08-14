@@ -1,4 +1,6 @@
-# SNKR Resell Burn
+# Mein erstes Solo-Abschlussprojekt als Student am DCI im Modul UIB: 
+
+## SNKR Resell Burn
 
 Willkommen bei **SNKR Resell Burn** – deinem ultimativen Ziel für den Kauf von Sammelsneakern! Dieses Projekt wurde als Solo-Herausforderung im Rahmen des DCI UIB Finalprojekts innerhalb von 6 Tagen entwickelt. Es besteht ausschließlich aus HTML und CSS.
 
