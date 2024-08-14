@@ -13,6 +13,8 @@ Willkommen bei **SNKR Resell Burn** – deinem ultimativen Ziel für den Kauf vo
 
 - **Klar strukturierte Produktübersicht:** Einfaches Durchsuchen der verfügbaren Sneaker.
 - **Detailseiten für jedes Paar:** Einzelheiten zu jedem Sneaker, einschließlich Bilder und Beschreibung.
+- **Anzeigen der Region:** z.B. als Wegweiser bei Abholung vor Ort.
+- **Contact Formular:** Vorstufe des Auscheckens/Bestellplatzierungdurch Eingabemöglichkeit der Lieferadresse u. Auswahl der Versandart. Da JS und React, im Rahmen des Projekt nicht erlaubt waren.
 - **Responsive Design:** Optimale Darstellung auf verschiedenen Endgeräte.
   
 ## Welcome to my Website
@@ -24,7 +26,7 @@ Willkommen bei **SNKR Resell Burn** – deinem ultimativen Ziel für den Kauf vo
 
 ## Technologien
 
-- HTML
+- HTML 5
 - CSS
 
 
