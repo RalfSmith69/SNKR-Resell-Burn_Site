@@ -1,6 +1,6 @@
 ## Welcome to my Website
 #### Landing Page:
-![assets/Burn1_.gif](https://github.com/RalfSmith69/SNKR-Resell-Burn_Site/blob/master/Burn1_.gif)
+![assets/Burn1_.gif](https://github.com/RalfSmith69/SNKR-Resell-Burn_Site/blob/master/Burn1_.gif) 
 
 #### Hauptseite:
 ![assets/Screenshot from 2024-08-14 09-21-12.png](https://github.com/RalfSmith69/SNKR-Resell-Burn_Site/blob/master/Screenshot%20from%202024-08-14%2009-21-12.png)
