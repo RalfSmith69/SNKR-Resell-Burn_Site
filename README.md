@@ -1,3 +1,10 @@
+## Welcome to my Website
+#### Landing Page:
+![assets/Screenshot from 2024-08-14 13-17-24.png](https://github.com/RalfSmith69/SNKR-Resell-Burn_Site/blob/master/Screenshot%20from%202024-08-14%2013-17-24.png)
+
+#### Hauptseite:
+![assets/Screenshot from 2024-08-14 09-21-12.png](https://github.com/RalfSmith69/SNKR-Resell-Burn_Site/blob/master/Screenshot%20from%202024-08-14%2009-21-12.png)
+
 # Mein Solo-Abschlussprojekt als Student am DCI im Modul UIB: 
 
 ## SNKR Resell Burn
