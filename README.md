@@ -14,8 +14,7 @@ Willkommen bei **SNKR Resell Burn** – deinem ultimativen Ziel für den Kauf vo
 - **Klar strukturierte Produktübersicht:** Einfaches Durchsuchen der verfügbaren Sneaker.
 - **Detailseiten für jedes Paar:** Einzelheiten zu jedem Sneaker, einschließlich Bilder und Beschreibung.
 - **Responsive Design:** Optimale Darstellung auf verschiedenen Endgeräte.
-
-
+  
 ## Technologien
 
 - HTML
