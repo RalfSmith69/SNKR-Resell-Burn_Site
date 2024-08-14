@@ -15,8 +15,8 @@ Willkommen bei **SNKR Resell Burn** – deinem ultimativen Ziel für den Kauf vo
 - **Detailseiten für jedes Paar:** Einzelheiten zu jedem Sneaker, einschließlich Bilder und Beschreibung.
 - **Responsive Design:** Optimale Darstellung auf verschiedenen Endgeräte.
   
-#### Welcome to my Website
-Landing Page:
+## Welcome to my Website
+#### Landing Page:
 ![assets/Screenshot from 2024-08-14 13-17-24.png](https://github.com/RalfSmith69/SNKR-Resell-Burn_Site/blob/master/Screenshot%20from%202024-08-14%2013-17-24.png)
 
 #### Hauptseite:
