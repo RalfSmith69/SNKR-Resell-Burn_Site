@@ -16,7 +16,6 @@ Willkommen bei **SNKR Resell Burn** – deinem ultimativen Ziel für den Kauf vo
 - **Responsive Design:** Optimale Darstellung auf verschiedenen Endgeräten.
   
 
-
 ## Technologien
 
 - HTML
