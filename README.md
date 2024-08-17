@@ -1,13 +1,13 @@
-## Welcome to my Website
+# Mein Solo-Abschlussprojekt als Student am DCI im Modul UIB: 
+
+## SNKR Resell Burn
+
 #### Landing Page:
 ![assets/Burn1_.gif](https://github.com/RalfSmith69/SNKR-Resell-Burn_Site/blob/master/Burn1_.gif) 
 
 #### Hauptseite:
 ![assets/Burn2_gif](https://github.com/RalfSmith69/SNKR-Resell-Burn_Site/blob/master/Burn2_.gif)
 
-# Mein Solo-Abschlussprojekt als Student am DCI im Modul UIB: 
-
-## SNKR Resell Burn
 
 Willkommen bei **SNKR Resell Burn** – deinem ultimativen Ziel für den Kauf von Sammelsneakern! Dieses Projekt wurde als Solo-Herausforderung im Rahmen des DCI UIB Finalprojekts innerhalb von 6 Tagen entwickelt. Es besteht ausschließlich nur aus HTML und CSS, die Möglichkeiten wurden aber komplett ausgeschöpft. Da im Rahmen dieses Projektes Technologien wie z.B. Javascript, React usw., nicht erlaubt waren! 
 
