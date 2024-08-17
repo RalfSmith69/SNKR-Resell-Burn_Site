@@ -34,7 +34,8 @@ Willkommen bei **SNKR Resell Burn** – deinem ultimativen Ziel für den Kauf vo
 
 ## Kontakt
 
-Ralf Schmitz -
+Copyright by Ralf Schmitz 2023
+
 Mail to: RalfSchmitz@vodafone.de
 
 LinkedIN: https://www.linkedin.com/in/ralf-schmitz-846595322
